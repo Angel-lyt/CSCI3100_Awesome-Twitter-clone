@@ -7,6 +7,7 @@ This is the github repository for the CSCI3100 project. The project is a twitter
 * [x] High level documentation [Here](https://github.com/LIQiushui2427/CSCI3100_Awesome-Twitter-clone/blob/master/CSCI3100_High_level_documentation.pdf)
 ## Contributors
 * [YI Jian 1155157207](https://github.com/LIQiushui2427)
+* [LI Yuk Ting 1155159914](https://github.com/Angel-lyt)
 * [SHI Juluan 1155160208](https://github.com/CarlosCUHK)
 * [ZHANG Xue 1155160250](https://github.com/c-beeper)
 ## License
